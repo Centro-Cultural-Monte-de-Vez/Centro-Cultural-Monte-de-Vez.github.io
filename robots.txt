@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://centro-cultural-monte-de-vez.github.io/sitemap.xml
